@@ -7,3 +7,12 @@ Un site web dédié à faire des cadres photos intelligents dédié à la qualit
 - [Post linkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6507531815102836736) version longue
 
 - [Videos live des plages](https://www.linkedin.com/feed/update/urn:li:activity:6507533572084195328)
+
+- [Video youtube courte sur les plages live](https://youtu.be/ULxTC4MyUBY)
+
+- []Video youtube longue sur le site complet]()
+
+- [Tweet de la video courte](https://twitter.com/rastadidi/status/1101771393660678145)
+
+- [Tweet de la video Longue](https://twitter.com/rastadidi/status/1101772531864764416)
+
