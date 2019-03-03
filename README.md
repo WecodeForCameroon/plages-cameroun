@@ -1,5 +1,9 @@
 # plages-noumea
 
+[![Join the chat at https://gitter.im/plages-noumea-slideshow/community](https://badges.gitter.im/plages-noumea-slideshow/community.svg)](https://gitter.im/plages-noumea-slideshow/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Beerpay](https://beerpay.io/adriens/plages-noumea/badge.svg)](https://beerpay.io/adriens/plages-noumea)
+[![Beerpay](https://beerpay.io/adriens/plages-noumea/make-wish.svg)](https://beerpay.io/adriens/plages-noumea)
+
 Un site web dédié à faire des cadres photos intelligents dédié à la qualité des eaux des plages via un site responsive (téléphone, tablette, PC, ...) et tactiles.
 
 # Démos
@@ -10,9 +14,10 @@ Un site web dédié à faire des cadres photos intelligents dédié à la qualit
 
 - [Video youtube courte sur les plages live](https://youtu.be/ULxTC4MyUBY)
 
-- []Video youtube longue sur le site complet](https://youtu.be/6WqrF-Zf_yc)
+- [Video youtube longue sur le site complet](https://youtu.be/6WqrF-Zf_yc)
 
 - [Tweet de la video courte](https://twitter.com/rastadidi/status/1101771393660678145)
 
 - [Tweet de la video Longue](https://twitter.com/rastadidi/status/1101772531864764416)
 
+- [Démo ChromeCast sur TV](https://youtu.be/7aKEby8qupI)
