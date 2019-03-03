@@ -21,3 +21,5 @@ Un site web dédié à faire des cadres photos intelligents dédié à la qualit
 - [Tweet de la video Longue](https://twitter.com/rastadidi/status/1101772531864764416)
 
 - [Démo ChromeCast sur TV](https://youtu.be/7aKEby8qupI)
+
+- [Démo ChromeCast sur Tv](https://youtu.be/uOH1cjQVtIQ)
