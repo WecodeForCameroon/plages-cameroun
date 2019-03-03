@@ -1,6 +1,8 @@
 # plages-noumea
 
 [![Join the chat at https://gitter.im/plages-noumea-slideshow/community](https://badges.gitter.im/plages-noumea-slideshow/community.svg)](https://gitter.im/plages-noumea-slideshow/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Beerpay](https://beerpay.io/adriens/plages-noumea/badge.svg)](https://beerpay.io/adriens/plages-noumea)
+[![Beerpay](https://beerpay.io/adriens/plages-noumea/make-wish.svg)](https://beerpay.io/adriens/plages-noumea)
 
 Un site web dédié à faire des cadres photos intelligents dédié à la qualité des eaux des plages via un site responsive (téléphone, tablette, PC, ...) et tactiles.
 
